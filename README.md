@@ -66,4 +66,4 @@ Estoy en constante crecimiento dentro del mundo del desarrollo backend y fronten
 
 ---
 
-⭐ **"El código es el lenguaje del futuro, y cada línea escrita es una oportunidad para construirlo."**  
+⭐ **"Si lo puedes imaginar lo puedes crear."**  
